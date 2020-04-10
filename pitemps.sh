@@ -59,7 +59,7 @@ trap '' 2
 # ---- ---- ----  ---- ---- Change variables above this line ---- ---- ---- ---- ----
 
 # Official version. Please don't change.
-version=2.2
+version=2.2.1
 
 # ---- ---- ----  ---- ---- Begin of variable check section  ---- ---- ---- ---- ----
 
